@@ -4,7 +4,7 @@
 source("code/constants.R")
 source("code/utils.R")
 
-# source("code/01_import_data.R")
-# source("code/02_clean_data.R")
+source("code/01_import_data.R")
+source("code/02_clean_data.R")
 # source("code/03_analysis.R")
 # source("code/04_figures_tables.R")
